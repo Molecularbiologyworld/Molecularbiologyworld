@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Molecularbiologyworld
+- 👋 Hi, I’m Game of Life
 - 👀 I’m interested in bioinformatics, structural biology, ageing biology and machine learning 
 - 🌱 I’m currently learning general coding
 - 💞️ I’m looking to collaborate on any biology questions
