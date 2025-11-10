@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Game of Life
 - 👀 I’m interested in bioinformatics, structural biology, ageing biology and machine learning 
-- 🌱 I’m currently learning general coding
+- 🌱 I’m currently learning general coding and machine learning
 - 💞️ I’m looking to collaborate on any biology questions
 - 📫 How to reach me: molecularbiologyworld@gmail.com
 - 😄 Pronouns: He/Him/His
