@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Game of Life
+- 👋 Hi, I’m George Han.
 - 👀 I’m interested in bioinformatics, structural biology, ageing biology and machine learning 
 - 🌱 I’m currently learning general coding and machine learning
 - 💞️ I’m looking to collaborate on any biology questions
